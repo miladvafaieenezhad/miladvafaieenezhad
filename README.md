@@ -1,6 +1,9 @@
-### Hi there, welcome to my github profile 👋
-📫 How to reach me: miladvafaieenezhad@gmail.com
-🌱 I’m currently learning about how to work with open-source EDA tools.
+## Hi there, welcome to my github profile!
+
+🌱 I’m currently learning about how to work with open-source EDA tools.<br>
+You can learn more anbout me on Linkedin.
+📫 How to reach me: miladvafaieenezhad@gmail.com <br>
+
 
 <!--
 **miladvafaieenezhad/miladvafaieenezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
