@@ -1,6 +1,6 @@
 ## Hi there, welcome to my github profile!
 
-🌱 I’m currently learning about how to work with open-source EDA tools.<br>
+🌱 I’m currently learning about open-source EDA tools.<br>
 You can learn more about me on Linkedin. <br>
 How to reach me: miladvafaieenezhad@gmail.com <br>
 Fun fact: I like to shuffle.
