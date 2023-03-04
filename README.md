@@ -9,6 +9,8 @@ Fun fact: I like to shuffle.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladvafaieenezhad&layout=compact)](https://github.com/miladvafaieenezhad)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=miladvafaieenezhad.miladvafaieenezhad)](https://www.miladvafaieenezhad.dev/)
+
 <!--
 **miladvafaieenezhad/miladvafaieenezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
